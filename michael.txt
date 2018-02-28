@@ -1,1 +1,16 @@
 michael
+
+step 1
+git init
+git remote add origin https://github.com/mharoot/GitWorkFlow
+git checkout -b michael1
+git pull origin michael
+
+step 2
+git status
+git add filename.txt
+git commit -m "a good message"
+git push origin michael1
+
+
+
