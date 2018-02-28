@@ -1,0 +1,8 @@
+Marvin is here
+git init
+git remote add origin https://github.com/mharoot/GitWorkFlow.git
+git checkout -b marvin1
+git pull origin marvin1
+git add .
+git commit -m added marvin
+git push origin marvin1
