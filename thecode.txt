@@ -10,3 +10,11 @@ MARVIN:
 
 
 CHAD:
+
+
+Scenario:
+1. adding to thecode.txt on branch michael2
+2. branch michael2 is 1 commit behind master
+3. the michael.txt file in master was edited.
+4. nothing has been deleted from thecode.txt
+5. only Scenario and these 1-5 numbered facts were added.
