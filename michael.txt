@@ -16,17 +16,9 @@ git push origin michael1
 Step 3 (Scenario, marvin added a file I did not have hence we had no merge conflicts)
 git checkout -b master
 git pull origin master
+git add michael.txt
+git commit -m "adding part 3"
+git push origin master
 
-remote: Counting objects: 7, done.
-remote: Compressing objects: 100% (6/6), done.
-remote: Total 7 (delta 2), reused 5 (delta 0), pack-reused 0
-Unpacking objects: 100% (7/7), done.
-From https://github.com/mharoot/GitWorkFlow
- * branch            master     -> FETCH_HEAD
- * [new branch]      master     -> origin/master
-Merge made by the 'recursive' strategy.
- marvin.txt | 8 ++++++++
- 1 file changed, 8 insertions(+)
- create mode 100644 marvin.txt
 
 
