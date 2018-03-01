@@ -1,17 +1,3 @@
-ADDITIONS-FROM-new-branch
-
-BLAH BLAH BLAH BLAH
-
-CHRIS:
-
-MICHAEL:
-
-MARVIN:
-
-
-CHAD:
-
-
 Scenario:
 1. adding to thecode.txt on branch michael2
 2. branch michael2 is 1 commit behind master
