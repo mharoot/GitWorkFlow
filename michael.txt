@@ -1,14 +1,14 @@
 step 1
 git init
 git remote add origin https://github.com/mharoot/GitWorkFlow
-git checkout -b michael1
-git pull origin michael
+git checkout -b michael5
+git pull origin michael5
 
 step 2
 git status
 git add filename.txt
 git commit -m "a good message"
-git push origin michael1
+git push origin michael5
 
 
 Step 3 (Scenario, marvin added a file I did not have hence we had no merge conflicts)
@@ -19,8 +19,6 @@ git commit -m "adding part 3"
 git push origin master
 
 
-Lines Added:
-1. I added this line, and removed the first line of this file that had michael written.
 
 
 
